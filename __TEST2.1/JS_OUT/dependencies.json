@@ -1,0 +1,14 @@
+[
+  {
+    "id": "AUDIO1",
+    "file": "media/audio1.wav"
+  },
+  {
+    "id": "AUDIO2",
+    "file": "media/AUDIO2.wav"
+  },
+  {
+    "id": "AUDIO3",
+    "file": "media/AUDIO3.wav"
+  }
+]
