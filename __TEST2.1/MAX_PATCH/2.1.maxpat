@@ -4221,7 +4221,8 @@
 							"web-export" : 							{
 								"json-web-export" : 								{
 									"copy_dependencies" : 1,
-									"openexportdirectory" : 1
+									"openexportdirectory" : 1,
+									"file_name" : "TEST2.1.json"
 								}
 
 							}
@@ -4330,30 +4331,30 @@
 		}
 ,
 		"dependency_cache" : [ 			{
-				"name" : "AUDIO1.wav",
-				"bootpath" : "~/Desktop/EMGOR SYNTH/internet synth/GITTT/EMORY_REPO/__TEST2.1",
-				"patcherrelativepath" : ".",
-				"type" : "WAVE",
-				"implicit" : 1
-			}
-, 			{
 				"name" : "AUDIO2.wav",
-				"bootpath" : "~/Desktop/EMGOR SYNTH/internet synth/GITTT/EMORY_REPO/__TEST2.1",
+				"bootpath" : "~/Desktop/EMGOR SYNTH/internet synth/GITTT/EMORY_REPO/__TEST2.1/MAX_PATCH",
 				"patcherrelativepath" : ".",
 				"type" : "WAVE",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "AUDIO3.wav",
-				"bootpath" : "~/Desktop/EMGOR SYNTH/internet synth/GITTT/EMORY_REPO/__TEST2.1",
+				"bootpath" : "~/Desktop/EMGOR SYNTH/internet synth/GITTT/EMORY_REPO/__TEST2.1/MAX_PATCH",
 				"patcherrelativepath" : ".",
+				"type" : "WAVE",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "audio1.wav",
+				"bootpath" : "~/Desktop/EMGOR SYNTH/internet synth/GITTT/EMORY_REPO/TEST1.3",
+				"patcherrelativepath" : "../../TEST1.3",
 				"type" : "WAVE",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "untitled.maxsnap",
 				"bootpath" : "~/Documents/Max 8/Snapshots",
-				"patcherrelativepath" : "../../../../../../Documents/Max 8/Snapshots",
+				"patcherrelativepath" : "../../../../../../../Documents/Max 8/Snapshots",
 				"type" : "mx@s",
 				"implicit" : 1
 			}
